@@ -39,7 +39,7 @@ header - første 4 bits til koordinat:
 
 10  7  8  9
 
-
+6 = 1001
 
 comparator; hvis højere, send højre, hvis lavere send venstre hvis lig kig på y koord.
 comparator 2; hvis højere send ned, hvis lavere send op, hvis lig send lokal.
